@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MvcTask(7-23-2024)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB4759E-E7DC-4ADB-8667-C52241BA1213}|MvcTask(7-23-2024)\\MvcTask(7-23-2024).csproj|c:\\users\\orange\\desktop\\mvctask(7-23-2024)\\mvctask(7-23-2024)\\views\\form\\formregs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BB4759E-E7DC-4ADB-8667-C52241BA1213}|MvcTask(7-23-2024)\\MvcTask(7-23-2024).csproj|solutionrelative:mvctask(7-23-2024)\\views\\form\\formregs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB4759E-E7DC-4ADB-8667-C52241BA1213}|MvcTask(7-23-2024)\\MvcTask(7-23-2024).csproj|c:\\users\\orange\\desktop\\mvctask(7-23-2024)\\mvctask(7-23-2024)\\views\\form\\formcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BB4759E-E7DC-4ADB-8667-C52241BA1213}|MvcTask(7-23-2024)\\MvcTask(7-23-2024).csproj|solutionrelative:mvctask(7-23-2024)\\views\\form\\formcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB4759E-E7DC-4ADB-8667-C52241BA1213}|MvcTask(7-23-2024)\\MvcTask(7-23-2024).csproj|c:\\users\\orange\\desktop\\mvctask(7-23-2024)\\mvctask(7-23-2024)\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB4759E-E7DC-4ADB-8667-C52241BA1213}|MvcTask(7-23-2024)\\MvcTask(7-23-2024).csproj|solutionrelative:mvctask(7-23-2024)\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB4759E-E7DC-4ADB-8667-C52241BA1213}|MvcTask(7-23-2024)\\MvcTask(7-23-2024).csproj|c:\\users\\orange\\desktop\\mvctask(7-23-2024)\\mvctask(7-23-2024)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB4759E-E7DC-4ADB-8667-C52241BA1213}|MvcTask(7-23-2024)\\MvcTask(7-23-2024).csproj|solutionrelative:mvctask(7-23-2024)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB4759E-E7DC-4ADB-8667-C52241BA1213}|MvcTask(7-23-2024)\\MvcTask(7-23-2024).csproj|c:\\users\\orange\\desktop\\mvctask(7-23-2024)\\mvctask(7-23-2024)\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB4759E-E7DC-4ADB-8667-C52241BA1213}|MvcTask(7-23-2024)\\MvcTask(7-23-2024).csproj|solutionrelative:mvctask(7-23-2024)\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB4759E-E7DC-4ADB-8667-C52241BA1213}|MvcTask(7-23-2024)\\MvcTask(7-23-2024).csproj|c:\\users\\orange\\desktop\\mvctask(7-23-2024)\\mvctask(7-23-2024)\\views\\shared\\_formlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BB4759E-E7DC-4ADB-8667-C52241BA1213}|MvcTask(7-23-2024)\\MvcTask(7-23-2024).csproj|solutionrelative:mvctask(7-23-2024)\\views\\shared\\_formlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MvcTask(7-23-2024)\\MvcTask(7-23-2024)\\Controllers\\FormController.cs",
+              "RelativeDocumentMoniker": "MvcTask(7-23-2024)\\Controllers\\FormController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MvcTask(7-23-2024)\\MvcTask(7-23-2024)\\Controllers\\FormController.cs",
+              "RelativeToolTip": "MvcTask(7-23-2024)\\Controllers\\FormController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:36:12.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormRegs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MvcTask(7-23-2024)\\MvcTask(7-23-2024)\\Views\\Form\\FormRegs.cshtml",
+              "RelativeDocumentMoniker": "MvcTask(7-23-2024)\\Views\\Form\\FormRegs.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MvcTask(7-23-2024)\\MvcTask(7-23-2024)\\Views\\Form\\FormRegs.cshtml",
+              "RelativeToolTip": "MvcTask(7-23-2024)\\Views\\Form\\FormRegs.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T06:36:58.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormContent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MvcTask(7-23-2024)\\MvcTask(7-23-2024)\\Views\\Form\\FormContent.cshtml",
+              "RelativeDocumentMoniker": "MvcTask(7-23-2024)\\Views\\Form\\FormContent.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MvcTask(7-23-2024)\\MvcTask(7-23-2024)\\Views\\Form\\FormContent.cshtml",
+              "RelativeToolTip": "MvcTask(7-23-2024)\\Views\\Form\\FormContent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T06:56:47.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MvcTask(7-23-2024)\\MvcTask(7-23-2024)\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "MvcTask(7-23-2024)\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MvcTask(7-23-2024)\\MvcTask(7-23-2024)\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "MvcTask(7-23-2024)\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:45:00.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_formLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MvcTask(7-23-2024)\\MvcTask(7-23-2024)\\Views\\Shared\\_formLayout.cshtml",
+              "RelativeDocumentMoniker": "MvcTask(7-23-2024)\\Views\\Shared\\_formLayout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MvcTask(7-23-2024)\\MvcTask(7-23-2024)\\Views\\Shared\\_formLayout.cshtml",
+              "RelativeToolTip": "MvcTask(7-23-2024)\\Views\\Shared\\_formLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T06:39:01.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MvcTask(7-23-2024)\\MvcTask(7-23-2024)\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcTask(7-23-2024)\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MvcTask(7-23-2024)\\MvcTask(7-23-2024)\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcTask(7-23-2024)\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:36:31.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
