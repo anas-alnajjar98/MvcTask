@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-24-2024)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E8B76A5C-DAD4-496E-BD89-5312F2BB2879}|MvcTask(7-24-2024)\\MvcTask(7-24-2024).csproj|C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-24-2024)\\mvctask(7-24-2024)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B76A5C-DAD4-496E-BD89-5312F2BB2879}|MvcTask(7-24-2024)\\MvcTask(7-24-2024).csproj|solutionrelative:mvctask(7-24-2024)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8B76A5C-DAD4-496E-BD89-5312F2BB2879}|MvcTask(7-24-2024)\\MvcTask(7-24-2024).csproj|c:\\users\\orange\\desktop\\mvcgit\\mvctask\\mvctask(7-24-2024)\\mvctask(7-24-2024)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E8B76A5C-DAD4-496E-BD89-5312F2BB2879}|MvcTask(7-24-2024)\\MvcTask(7-24-2024).csproj|solutionrelative:mvctask(7-24-2024)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E8B76A5C-DAD4-496E-BD89-5312F2BB2879}|MvcTask(7-24-2024)\\MvcTask(7-24-2024).csproj|C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-24-2024)\\mvctask(7-24-2024)\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E8B76A5C-DAD4-496E-BD89-5312F2BB2879}|MvcTask(7-24-2024)\\MvcTask(7-24-2024).csproj|solutionrelative:mvctask(7-24-2024)\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8B76A5C-DAD4-496E-BD89-5312F2BB2879}|MvcTask(7-24-2024)\\MvcTask(7-24-2024).csproj|C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-24-2024)\\mvctask(7-24-2024)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8B76A5C-DAD4-496E-BD89-5312F2BB2879}|MvcTask(7-24-2024)\\MvcTask(7-24-2024).csproj|solutionrelative:mvctask(7-24-2024)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8B76A5C-DAD4-496E-BD89-5312F2BB2879}|MvcTask(7-24-2024)\\MvcTask(7-24-2024).csproj|C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-24-2024)\\mvctask(7-24-2024)\\content\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "regs.css",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-24-2024)\\MvcTask(7-24-2024)\\Content\\regs.css",
               "RelativeDocumentMoniker": "MvcTask(7-24-2024)\\Content\\regs.css",
@@ -70,12 +70,11 @@
               "RelativeToolTip": "MvcTask(7-24-2024)\\Content\\regs.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-24T20:14:32.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T20:14:32.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-24-2024)\\MvcTask(7-24-2024)\\Views\\Home\\Register.cshtml",
               "RelativeDocumentMoniker": "MvcTask(7-24-2024)\\Views\\Home\\Register.cshtml",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "MvcTask(7-24-2024)\\Views\\Home\\Register.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T20:13:01.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T20:13:01.312Z"
             },
             {
               "$type": "Document",
@@ -96,8 +94,7 @@
               "RelativeToolTip": "MvcTask(7-24-2024)\\Content\\login.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-24T20:06:01.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T20:06:01.64Z"
             },
             {
               "$type": "Document",
@@ -109,12 +106,11 @@
               "RelativeToolTip": "MvcTask(7-24-2024)\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T20:02:37.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T20:02:37.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-24-2024)\\MvcTask(7-24-2024)\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "MvcTask(7-24-2024)\\Views\\Home\\Login.cshtml",
@@ -122,25 +118,24 @@
               "RelativeToolTip": "MvcTask(7-24-2024)\\Views\\Home\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T20:01:57.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T20:01:57.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-24-2024)\\MvcTask(7-24-2024)\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MvcTask(7-24-2024)\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-24-2024)\\MvcTask(7-24-2024)\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MvcTask(7-24-2024)\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAACsAAAAgAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABcAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T20:00:01.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-24-2024)\\MvcTask(7-24-2024)\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MvcTask(7-24-2024)\\Views\\Home\\Index.cshtml",
@@ -161,8 +156,7 @@
               "RelativeToolTip": "MvcTask(7-24-2024)\\Content\\homestyle.css",
               "ViewState": "AQIAADkAAAAAAAAAAAAQwFsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-24T20:05:00.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T20:05:00.933Z"
             },
             {
               "$type": "Document",
@@ -174,8 +168,7 @@
               "RelativeToolTip": "MvcTask(7-24-2024)\\Views\\Shared\\_LayoutPage1.cshtml",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T19:58:51.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T19:58:51.456Z"
             },
             {
               "$type": "Document",
@@ -187,8 +180,7 @@
               "RelativeToolTip": "MvcTask(7-24-2024)\\Views\\Home\\Contact.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T19:57:43.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T19:57:43.861Z"
             },
             {
               "$type": "Document",
@@ -200,8 +192,7 @@
               "RelativeToolTip": "MvcTask(7-24-2024)\\Views\\Home\\About.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T19:54:00.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T19:54:00.685Z"
             }
           ]
         }

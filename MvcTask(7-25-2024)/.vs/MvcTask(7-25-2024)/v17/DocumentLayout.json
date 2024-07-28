@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\MvcTask(7-25-2024)\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-25-2024)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{261FCE51-921D-44F8-8A0A-C92AE9A48AAF}|MvcTask(7-25-2024)\\MvcTask(7-25-2024).csproj|c:\\users\\orange\\source\\repos\\mvctask(7-25-2024)\\mvctask(7-25-2024)\\views\\productsinfoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{261FCE51-921D-44F8-8A0A-C92AE9A48AAF}|MvcTask(7-25-2024)\\MvcTask(7-25-2024).csproj|c:\\users\\orange\\desktop\\mvcgit\\mvctask\\mvctask(7-25-2024)\\mvctask(7-25-2024)\\views\\productsinfoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{261FCE51-921D-44F8-8A0A-C92AE9A48AAF}|MvcTask(7-25-2024)\\MvcTask(7-25-2024).csproj|solutionrelative:mvctask(7-25-2024)\\views\\productsinfoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{261FCE51-921D-44F8-8A0A-C92AE9A48AAF}|MvcTask(7-25-2024)\\MvcTask(7-25-2024).csproj|c:\\users\\orange\\source\\repos\\mvctask(7-25-2024)\\mvctask(7-25-2024)\\controllers\\productsinfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{261FCE51-921D-44F8-8A0A-C92AE9A48AAF}|MvcTask(7-25-2024)\\MvcTask(7-25-2024).csproj|C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-25-2024)\\mvctask(7-25-2024)\\controllers\\productsinfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{261FCE51-921D-44F8-8A0A-C92AE9A48AAF}|MvcTask(7-25-2024)\\MvcTask(7-25-2024).csproj|solutionrelative:mvctask(7-25-2024)\\controllers\\productsinfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{261FCE51-921D-44F8-8A0A-C92AE9A48AAF}|MvcTask(7-25-2024)\\MvcTask(7-25-2024).csproj|c:\\users\\orange\\source\\repos\\mvctask(7-25-2024)\\mvctask(7-25-2024)\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{261FCE51-921D-44F8-8A0A-C92AE9A48AAF}|MvcTask(7-25-2024)\\MvcTask(7-25-2024).csproj|C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-25-2024)\\mvctask(7-25-2024)\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{261FCE51-921D-44F8-8A0A-C92AE9A48AAF}|MvcTask(7-25-2024)\\MvcTask(7-25-2024).csproj|solutionrelative:mvctask(7-25-2024)\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\MvcTask(7-25-2024)\\MvcTask(7-25-2024)\\Views\\productsInfoes\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-25-2024)\\MvcTask(7-25-2024)\\Views\\productsInfoes\\Index.cshtml",
               "RelativeDocumentMoniker": "MvcTask(7-25-2024)\\Views\\productsInfoes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\MvcTask(7-25-2024)\\MvcTask(7-25-2024)\\Views\\productsInfoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-25-2024)\\MvcTask(7-25-2024)\\Views\\productsInfoes\\Index.cshtml",
               "RelativeToolTip": "MvcTask(7-25-2024)\\Views\\productsInfoes\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-27T21:33:58.945Z",
               "EditorCaption": ""
@@ -45,11 +45,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "productsInfoesController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\MvcTask(7-25-2024)\\MvcTask(7-25-2024)\\Controllers\\productsInfoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-25-2024)\\MvcTask(7-25-2024)\\Controllers\\productsInfoesController.cs",
               "RelativeDocumentMoniker": "MvcTask(7-25-2024)\\Controllers\\productsInfoesController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\MvcTask(7-25-2024)\\MvcTask(7-25-2024)\\Controllers\\productsInfoesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-25-2024)\\MvcTask(7-25-2024)\\Controllers\\productsInfoesController.cs",
               "RelativeToolTip": "MvcTask(7-25-2024)\\Controllers\\productsInfoesController.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAQwHoAAAANAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAH4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T21:33:15.941Z",
               "EditorCaption": ""
@@ -58,13 +58,12 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\MvcTask(7-25-2024)\\MvcTask(7-25-2024)\\Models\\Model1.edmx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-25-2024)\\MvcTask(7-25-2024)\\Models\\Model1.edmx",
               "RelativeDocumentMoniker": "MvcTask(7-25-2024)\\Models\\Model1.edmx",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\MvcTask(7-25-2024)\\MvcTask(7-25-2024)\\Models\\Model1.edmx [Diagram1]",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTask(7-25-2024)\\MvcTask(7-25-2024)\\Models\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "MvcTask(7-25-2024)\\Models\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-07-27T21:30:38.751Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2024-07-27T21:30:38.751Z"
             }
           ]
         }
