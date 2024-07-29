@@ -1,6 +1,7 @@
 ﻿using MvcTask_7_24_2024_.Models;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Net;
 using System.Web;
@@ -102,5 +103,61 @@ namespace MvcTask_7_24_2024_.Controllers
 
             return View();
         }
+        public ActionResult EditProfile()
+        {
+            HttpCookie cookie = Request.Cookies["UserInfo"];
+            if (cookie != null)
+            {
+                ViewBag.ID = cookie.Values["ID"];
+                ViewBag.UserName = cookie.Values["Name"];
+                ViewBag.UserEmail = cookie.Values["Email"];
+                ViewBag.UserImage = cookie.Values["Image"];
+            }
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult EditProfile(string name, HttpPostedFileBase image, string currentPassword, string newPassword, string confirmNewPassword)
+        {
+            HttpCookie cookie = Request.Cookies["UserInfo"];
+            if (cookie != null)
+            {
+                int userId = int.Parse(cookie.Values["ID"]);
+                var user = DB.USERINFOes.Find(userId);
+
+                if (user != null && user.password == currentPassword)
+                {
+                    user.name = name;
+
+                    if (image != null && image.ContentLength > 0)
+                    {
+                        string fileName = Path.GetFileName(image.FileName);
+                        string path = Path.Combine(Server.MapPath("~/img"), fileName);
+                        image.SaveAs(path);
+                        user.image = fileName;
+                    }
+
+                    if (!string.IsNullOrEmpty(newPassword) && newPassword == confirmNewPassword)
+                    {
+                        user.password = newPassword;
+                    }
+
+                    DB.SaveChanges();
+
+                    
+                    cookie.Values["Name"] = user.name;
+                    cookie.Values["Image"] = user.image;
+                    Response.Cookies.Set(cookie);
+
+                    return RedirectToAction("Profile");
+                }
+                else
+                {
+                    ViewBag.ErrorMessage = "Current password is incorrect.";
+                }
+            }
+            return View();
+        }
+
     }
 }
