@@ -11,13 +11,13 @@ namespace MvcTASK_7_28_2024_.Controllers
     {
         private IPHONEEntities DB = new IPHONEEntities();
 
-        // GET: IPHONE
+       
         public ActionResult Index()
         {
             return View(DB.IPHONEINFOes.ToList());
         }
 
-        // GET: IPHONE/Details/5
+        
         public ActionResult Details(int? id)
         {
             if (id == null)
@@ -32,13 +32,13 @@ namespace MvcTASK_7_28_2024_.Controllers
             return View(iphone);
         }
 
-        // GET: IPHONE/Create
+        
         public ActionResult Create()
         {
             return View();
         }
 
-        // POST: IPHONE/Create
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "NAME,PRICE,IMAGE")] IPHONEINFO iphone, HttpPostedFileBase ImageFile)
@@ -61,7 +61,7 @@ namespace MvcTASK_7_28_2024_.Controllers
             return View(iphone);
         }
 
-        // GET: IPHONE/Edit/5
+        
         [HttpGet]
         public ActionResult Edit(int? id)
         {
@@ -99,7 +99,7 @@ namespace MvcTASK_7_28_2024_.Controllers
             return View(iphone);
         }
 
-        // GET: IPHONE/Delete/5
+        
         public ActionResult Delete(int? id)
         {
             if (id == null)
@@ -114,7 +114,7 @@ namespace MvcTASK_7_28_2024_.Controllers
             return View(iphone);
         }
 
-        // POST: IPHONE/Delete/5
+        
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id)
