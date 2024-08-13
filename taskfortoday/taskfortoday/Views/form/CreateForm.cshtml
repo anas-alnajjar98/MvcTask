@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+<form action="@Url.Action("CreateForm", "Form")" method="post">
+    <table>
+        <tr>
+            <td>NAME</td>
+            <td><input type="text" name="name" /></td>
+        </tr>
+        <tr>
+            <td>IMAGE</td>
+            <td><input type="text" name="image" /></td>
+        </tr>
+        <tr>
+            <td>PRICE</td>
+            <td><input type="text" name="price" /></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><button type="submit">Add to Cart</button></td>
+        </tr>
+    </table>
+</form>
+
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

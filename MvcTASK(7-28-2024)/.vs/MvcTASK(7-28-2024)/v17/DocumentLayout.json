@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTASK(7-28-2024)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0BA975D-5F6B-4957-BAE4-60DC3951FA1A}|MvcTASK(7-28-2024)\\MvcTASK(7-28-2024).csproj|C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTASK(7-28-2024)\\mvctask(7-28-2024)\\views\\iphone\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0BA975D-5F6B-4957-BAE4-60DC3951FA1A}|MvcTASK(7-28-2024)\\MvcTASK(7-28-2024).csproj|solutionrelative:mvctask(7-28-2024)\\views\\iphone\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F0BA975D-5F6B-4957-BAE4-60DC3951FA1A}|MvcTASK(7-28-2024)\\MvcTASK(7-28-2024).csproj|C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTASK(7-28-2024)\\mvctask(7-28-2024)\\controllers\\iphonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BA975D-5F6B-4957-BAE4-60DC3951FA1A}|MvcTASK(7-28-2024)\\MvcTASK(7-28-2024).csproj|solutionrelative:mvctask(7-28-2024)\\controllers\\iphonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0BA975D-5F6B-4957-BAE4-60DC3951FA1A}|MvcTASK(7-28-2024)\\MvcTASK(7-28-2024).csproj|c:\\users\\orange\\desktop\\mvcgit\\mvctask\\mvctask(7-28-2024)\\mvctask(7-28-2024)\\controllers\\iphonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0BA975D-5F6B-4957-BAE4-60DC3951FA1A}|MvcTASK(7-28-2024)\\MvcTASK(7-28-2024).csproj|solutionrelative:mvctask(7-28-2024)\\controllers\\iphonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0BA975D-5F6B-4957-BAE4-60DC3951FA1A}|MvcTASK(7-28-2024)\\MvcTASK(7-28-2024).csproj|c:\\users\\orange\\desktop\\mvcgit\\mvctask\\mvctask(7-28-2024)\\mvctask(7-28-2024)\\views\\iphone\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0BA975D-5F6B-4957-BAE4-60DC3951FA1A}|MvcTASK(7-28-2024)\\MvcTASK(7-28-2024).csproj|solutionrelative:mvctask(7-28-2024)\\views\\iphone\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0BA975D-5F6B-4957-BAE4-60DC3951FA1A}|MvcTASK(7-28-2024)\\MvcTASK(7-28-2024).csproj|C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTASK(7-28-2024)\\mvctask(7-28-2024)\\views\\iphone\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,13 +46,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "IPHONEController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTASK(7-28-2024)\\MvcTASK(7-28-2024)\\Controllers\\IPHONEController.cs",
               "RelativeDocumentMoniker": "MvcTASK(7-28-2024)\\Controllers\\IPHONEController.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTASK(7-28-2024)\\MvcTASK(7-28-2024)\\Controllers\\IPHONEController.cs",
               "RelativeToolTip": "MvcTASK(7-28-2024)\\Controllers\\IPHONEController.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAAACUAAAAIAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAC0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T18:41:19.879Z",
               "EditorCaption": ""
@@ -67,12 +67,11 @@
               "RelativeToolTip": "MvcTASK(7-28-2024)\\Views\\IPHONE\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-28T19:29:37.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-28T19:29:37.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MvcGit\\MvcTask\\MvcTASK(7-28-2024)\\MvcTASK(7-28-2024)\\Views\\IPHONE\\Index.cshtml",
               "RelativeDocumentMoniker": "MvcTASK(7-28-2024)\\Views\\IPHONE\\Index.cshtml",
@@ -105,8 +104,7 @@
               "RelativeToolTip": "MvcTASK(7-28-2024)\\Views\\IPHONE\\Create.cshtml",
               "ViewState": "AQIAABYAAAAAAAAAAAAYwDgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-28T19:27:55.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-28T19:27:55.712Z"
             },
             {
               "$type": "Document",

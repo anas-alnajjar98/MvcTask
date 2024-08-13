@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\taskfortoday\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{888297C8-36D2-4C8F-9954-30AE2AB51440}|taskfortoday\\taskfortoday.csproj|c:\\users\\orange\\source\\repos\\taskfortoday\\taskfortoday\\views\\form2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{888297C8-36D2-4C8F-9954-30AE2AB51440}|taskfortoday\\taskfortoday.csproj|solutionrelative:taskfortoday\\views\\form2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888297C8-36D2-4C8F-9954-30AE2AB51440}|taskfortoday\\taskfortoday.csproj|c:\\users\\orange\\source\\repos\\taskfortoday\\taskfortoday\\controllers\\form2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888297C8-36D2-4C8F-9954-30AE2AB51440}|taskfortoday\\taskfortoday.csproj|solutionrelative:taskfortoday\\controllers\\form2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888297C8-36D2-4C8F-9954-30AE2AB51440}|taskfortoday\\taskfortoday.csproj|c:\\users\\orange\\source\\repos\\taskfortoday\\taskfortoday\\views\\form2\\createform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{888297C8-36D2-4C8F-9954-30AE2AB51440}|taskfortoday\\taskfortoday.csproj|solutionrelative:taskfortoday\\views\\form2\\createform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888297C8-36D2-4C8F-9954-30AE2AB51440}|taskfortoday\\taskfortoday.csproj|c:\\users\\orange\\source\\repos\\taskfortoday\\taskfortoday\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888297C8-36D2-4C8F-9954-30AE2AB51440}|taskfortoday\\taskfortoday.csproj|solutionrelative:taskfortoday\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888297C8-36D2-4C8F-9954-30AE2AB51440}|taskfortoday\\taskfortoday.csproj|C:\\Users\\Orange\\source\\repos\\taskfortoday\\taskfortoday\\views\\form\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{888297C8-36D2-4C8F-9954-30AE2AB51440}|taskfortoday\\taskfortoday.csproj|solutionrelative:taskfortoday\\views\\form\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888297C8-36D2-4C8F-9954-30AE2AB51440}|taskfortoday\\taskfortoday.csproj|C:\\Users\\Orange\\source\\repos\\taskfortoday\\taskfortoday\\views\\form\\createform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{888297C8-36D2-4C8F-9954-30AE2AB51440}|taskfortoday\\taskfortoday.csproj|solutionrelative:taskfortoday\\views\\form\\createform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888297C8-36D2-4C8F-9954-30AE2AB51440}|taskfortoday\\taskfortoday.csproj|C:\\Users\\Orange\\source\\repos\\taskfortoday\\taskfortoday\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888297C8-36D2-4C8F-9954-30AE2AB51440}|taskfortoday\\taskfortoday.csproj|solutionrelative:taskfortoday\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\taskfortoday\\taskfortoday\\Views\\form2\\Index.cshtml",
+              "RelativeDocumentMoniker": "taskfortoday\\Views\\form2\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\taskfortoday\\taskfortoday\\Views\\form2\\Index.cshtml",
+              "RelativeToolTip": "taskfortoday\\Views\\form2\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T22:54:17.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\taskfortoday\\taskfortoday\\Views\\form2\\CreateForm.cshtml",
+              "RelativeDocumentMoniker": "taskfortoday\\Views\\form2\\CreateForm.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\taskfortoday\\taskfortoday\\Views\\form2\\CreateForm.cshtml",
+              "RelativeToolTip": "taskfortoday\\Views\\form2\\CreateForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T22:50:14.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "form2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\taskfortoday\\taskfortoday\\Controllers\\form2Controller.cs",
+              "RelativeDocumentMoniker": "taskfortoday\\Controllers\\form2Controller.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\taskfortoday\\taskfortoday\\Controllers\\form2Controller.cs",
+              "RelativeToolTip": "taskfortoday\\Controllers\\form2Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:49:22.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\taskfortoday\\taskfortoday\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "taskfortoday\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\taskfortoday\\taskfortoday\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "taskfortoday\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:21:11.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\taskfortoday\\taskfortoday\\Views\\form\\Index.cshtml",
+              "RelativeDocumentMoniker": "taskfortoday\\Views\\form\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\taskfortoday\\taskfortoday\\Views\\form\\Index.cshtml",
+              "RelativeToolTip": "taskfortoday\\Views\\form\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAHIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:08:57.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\taskfortoday\\taskfortoday\\Views\\form\\CreateForm.cshtml",
+              "RelativeDocumentMoniker": "taskfortoday\\Views\\form\\CreateForm.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\taskfortoday\\taskfortoday\\Views\\form\\CreateForm.cshtml",
+              "RelativeToolTip": "taskfortoday\\Views\\form\\CreateForm.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T06:29:00.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "formController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\taskfortoday\\taskfortoday\\Controllers\\formController.cs",
+              "RelativeDocumentMoniker": "taskfortoday\\Controllers\\formController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\taskfortoday\\taskfortoday\\Controllers\\formController.cs",
+              "RelativeToolTip": "taskfortoday\\Controllers\\formController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwCMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T06:26:57.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
