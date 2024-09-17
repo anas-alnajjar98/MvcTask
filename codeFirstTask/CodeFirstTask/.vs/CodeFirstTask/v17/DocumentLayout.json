@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\CodeFirstTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC70B15-9220-448B-9B5C-BE56C41F66DD}|CodeFirstTask\\CodeFirstTask.csproj|c:\\users\\orange\\source\\repos\\codefirsttask\\codefirsttask\\migrations\\202409172033595_addimgtousertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC70B15-9220-448B-9B5C-BE56C41F66DD}|CodeFirstTask\\CodeFirstTask.csproj|solutionrelative:codefirsttask\\migrations\\202409172033595_addimgtousertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC70B15-9220-448B-9B5C-BE56C41F66DD}|CodeFirstTask\\CodeFirstTask.csproj|c:\\users\\orange\\source\\repos\\codefirsttask\\codefirsttask\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC70B15-9220-448B-9B5C-BE56C41F66DD}|CodeFirstTask\\CodeFirstTask.csproj|solutionrelative:codefirsttask\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC70B15-9220-448B-9B5C-BE56C41F66DD}|CodeFirstTask\\CodeFirstTask.csproj|c:\\users\\orange\\source\\repos\\codefirsttask\\codefirsttask\\migrations\\202409172031029_mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC70B15-9220-448B-9B5C-BE56C41F66DD}|CodeFirstTask\\CodeFirstTask.csproj|solutionrelative:codefirsttask\\migrations\\202409172031029_mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC70B15-9220-448B-9B5C-BE56C41F66DD}|CodeFirstTask\\CodeFirstTask.csproj|c:\\users\\orange\\source\\repos\\codefirsttask\\codefirsttask\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC70B15-9220-448B-9B5C-BE56C41F66DD}|CodeFirstTask\\CodeFirstTask.csproj|solutionrelative:codefirsttask\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC70B15-9220-448B-9B5C-BE56C41F66DD}|CodeFirstTask\\CodeFirstTask.csproj|c:\\users\\orange\\source\\repos\\codefirsttask\\codefirsttask\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6CC70B15-9220-448B-9B5C-BE56C41F66DD}|CodeFirstTask\\CodeFirstTask.csproj|solutionrelative:codefirsttask\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC70B15-9220-448B-9B5C-BE56C41F66DD}|CodeFirstTask\\CodeFirstTask.csproj|c:\\users\\orange\\source\\repos\\codefirsttask\\codefirsttask\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC70B15-9220-448B-9B5C-BE56C41F66DD}|CodeFirstTask\\CodeFirstTask.csproj|solutionrelative:codefirsttask\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC70B15-9220-448B-9B5C-BE56C41F66DD}|CodeFirstTask\\CodeFirstTask.csproj|c:\\users\\orange\\source\\repos\\codefirsttask\\codefirsttask\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC70B15-9220-448B-9B5C-BE56C41F66DD}|CodeFirstTask\\CodeFirstTask.csproj|solutionrelative:codefirsttask\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC70B15-9220-448B-9B5C-BE56C41F66DD}|CodeFirstTask\\CodeFirstTask.csproj|c:\\users\\orange\\source\\repos\\codefirsttask\\codefirsttask\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC70B15-9220-448B-9B5C-BE56C41F66DD}|CodeFirstTask\\CodeFirstTask.csproj|solutionrelative:codefirsttask\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 291,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202409172033595_addimgTousertable.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstTask\\CodeFirstTask\\Migrations\\202409172033595_addimgTousertable.cs",
+              "RelativeDocumentMoniker": "CodeFirstTask\\Migrations\\202409172033595_addimgTousertable.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstTask\\CodeFirstTask\\Migrations\\202409172033595_addimgTousertable.cs",
+              "RelativeToolTip": "CodeFirstTask\\Migrations\\202409172033595_addimgTousertable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:34:03.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "202409172031029_mydbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstTask\\CodeFirstTask\\Migrations\\202409172031029_mydbContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstTask\\Migrations\\202409172031029_mydbContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstTask\\CodeFirstTask\\Migrations\\202409172031029_mydbContext.cs",
+              "RelativeToolTip": "CodeFirstTask\\Migrations\\202409172031029_mydbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:31:16.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstTask\\CodeFirstTask\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "CodeFirstTask\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstTask\\CodeFirstTask\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "CodeFirstTask\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:30:01.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstTask\\CodeFirstTask\\Web.config",
+              "RelativeDocumentMoniker": "CodeFirstTask\\Web.config",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstTask\\CodeFirstTask\\Web.config",
+              "RelativeToolTip": "CodeFirstTask\\Web.config",
+              "ViewState": "AQIAACQAAAAAAAAAAAAUwDsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-17T20:22:45.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstTask\\CodeFirstTask\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstTask\\Models\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstTask\\CodeFirstTask\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "CodeFirstTask\\Models\\SchoolContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:20:02.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstTask\\CodeFirstTask\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "CodeFirstTask\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstTask\\CodeFirstTask\\Models\\Assignment.cs",
+              "RelativeToolTip": "CodeFirstTask\\Models\\Assignment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:18:46.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstTask\\CodeFirstTask\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "CodeFirstTask\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstTask\\CodeFirstTask\\Models\\Teacher.cs",
+              "RelativeToolTip": "CodeFirstTask\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:17:25.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CodeFirstTask\\CodeFirstTask\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CodeFirstTask\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CodeFirstTask\\CodeFirstTask\\Models\\Student.cs",
+              "RelativeToolTip": "CodeFirstTask\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:09:13.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
