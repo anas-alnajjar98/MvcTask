@@ -1,0 +1,114 @@
+﻿@model CodeFirstFinalTask.Models.User
+
+<section class="vh-100 bg-gradient">
+    <div class="container h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-md-8 col-lg-6 col-xl-4">
+                <div class="card shadow-lg p-5 hover-shadow">
+                    <!-- School Image -->
+                    <div class="text-center mb-4">
+                        <img src="https://png.pngtree.com/background/20230522/original/pngtree-an-illustration-of-an-elementary-school-building-picture-image_2697300.jpg" class="img-fluid login-img" alt="School Image">
+                    </div>
+
+                    @using (Html.BeginForm("Login", "Login", FormMethod.Post))
+                    {
+                        <!-- Title -->
+                        <h3 class="text-center mb-4">Welcome Back</h3>
+
+                        <!-- Email input -->
+                        <div class="form-outline mb-4">
+                            @Html.TextBoxFor(m => m.Email, new { id = "form3Example3", @class = "form-control", placeholder = "Email", required = "required" })
+                        </div>
+
+                        <!-- Password input -->
+                        <div class="form-outline mb-3">
+                            @Html.PasswordFor(m => m.Password, new { id = "form3Example4", @class = "form-control", placeholder = "Password", required = "required" })
+                        </div>
+
+                        <!-- Login Button -->
+                        <div class="d-grid">
+                            <button type="submit" class="btn btn-primary btn-lg shadow-lg btn-gradient">Login</button>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    /* Gradient Background for the page */
+    .bg-gradient {
+        background: linear-gradient(135deg, #e0eafc, #cfdef3); /* Light gradient */
+        height: 100vh;
+    }
+
+    /* Image Styling */
+    .login-img {
+        width: 120px;
+        height: 120px;
+        object-fit: cover;
+        border-radius: 50%; /* Circular image */
+        border: 3px solid #007bff; /* Blue border */
+        box-shadow: 0px 4px 10px rgba(0, 123, 255, 0.2); /* Soft shadow around the image */
+    }
+
+    /* Card styling */
+    .card {
+        border: none; /* No border */
+        border-radius: 20px; /* Rounded corners */
+        background-color: #ffffff; /* White background */
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* Soft shadow */
+        transition: all 0.3s ease-in-out; /* Smooth transition */
+    }
+
+    /* Add hover effect for the card */
+    .hover-shadow:hover {
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3); /* Darker shadow on hover */
+        transform: translateY(-5px); /* Slight upward movement on hover */
+    }
+
+    /* Input styling */
+    .form-control {
+        border-radius: 8px;
+        border: 1px solid #ced4da;
+        padding: 1rem;
+        font-size: 1rem;
+        background-color: #f8f9fa;
+    }
+
+    /* Button styling */
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+        padding: 0.75rem 1.5rem;
+        font-size: 1.2rem;
+        font-weight: 600;
+        border-radius: 10px;
+        transition: background-color 0.3s, box-shadow 0.3s; /* Smooth transitions */
+    }
+
+    /* Gradient effect on button */
+    .btn-gradient {
+        background: linear-gradient(45deg, #007bff, #00c6ff);
+        color: white;
+    }
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+        box-shadow: 0 4px 12px rgba(0, 123, 255, 0.4); /* Add shadow effect on hover */
+    }
+
+    /* Responsive adjustments */
+    @@media (max-width: 576px) {
+        .card {
+            padding: 2rem;
+        }
+
+        .login-img {
+            width: 80px;
+            height: 80px;
+        }
+    }
+
+</style>

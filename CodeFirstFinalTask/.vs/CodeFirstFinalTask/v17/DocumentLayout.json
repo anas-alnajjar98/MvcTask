@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\views\\classes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\views\\classes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\views\\classes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\views\\classes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\views\\assignments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\views\\assignments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\views\\assignments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\views\\assignments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\views\\assignments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\views\\assignments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\views\\assignments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\views\\assignments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\views\\assignments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\views\\assignments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\views\\minishcool\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\views\\minishcool\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\controllers\\minishcoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\controllers\\minishcoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\migrations\\202409212011468_myfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\migrations\\202409212011468_myfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\models\\minischoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\models\\minischoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|c:\\users\\orange\\desktop\\codefirstfinaltask\\codefirstfinaltask\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AEF07C-092F-48B7-9CA1-BAF3993C0DBD}|CodeFirstFinalTask\\CodeFirstFinalTask.csproj|solutionrelative:codefirstfinaltask\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 274,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CodeFirstFinalTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T22:08:19.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\Assignments\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Views\\Assignments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\Assignments\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstFinalTask\\Views\\Assignments\\Index.cshtml",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAQwIMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T21:40:52.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\MiniShcool\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Views\\MiniShcool\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\MiniShcool\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstFinalTask\\Views\\MiniShcool\\Index.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAQwGoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T21:35:05.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "CodeFirstFinalTask\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T21:21:34.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssignmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Controllers\\AssignmentsController.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Controllers\\AssignmentsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Controllers\\AssignmentsController.cs",
+              "RelativeToolTip": "CodeFirstFinalTask\\Controllers\\AssignmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:22:25.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Controllers\\ClassesController.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Controllers\\ClassesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Controllers\\ClassesController.cs",
+              "RelativeToolTip": "CodeFirstFinalTask\\Controllers\\ClassesController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAYwF0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:21:25.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\Classes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Views\\Classes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\Classes\\Delete.cshtml",
+              "RelativeToolTip": "CodeFirstFinalTask\\Views\\Classes\\Delete.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T22:02:05.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\Classes\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Views\\Classes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\Classes\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstFinalTask\\Views\\Classes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T21:56:10.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\Assignments\\Details.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Views\\Assignments\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\Assignments\\Details.cshtml",
+              "RelativeToolTip": "CodeFirstFinalTask\\Views\\Assignments\\Details.cshtml",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAQwGMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T21:41:30.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\Assignments\\Create.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Views\\Assignments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\Assignments\\Create.cshtml",
+              "RelativeToolTip": "CodeFirstFinalTask\\Views\\Assignments\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T21:42:02.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\Assignments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Views\\Assignments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\Assignments\\Delete.cshtml",
+              "RelativeToolTip": "CodeFirstFinalTask\\Views\\Assignments\\Delete.cshtml",
+              "ViewState": "AQIAAFIAAAAAAAAAAADwv3QAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T21:42:47.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\Assignments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Views\\Assignments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Views\\Assignments\\Edit.cshtml",
+              "RelativeToolTip": "CodeFirstFinalTask\\Views\\Assignments\\Edit.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAQwHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T21:42:23.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CodeFirstFinalTask\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:20:42.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MiniShcoolController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Controllers\\MiniShcoolController.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Controllers\\MiniShcoolController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Controllers\\MiniShcoolController.cs",
+              "RelativeToolTip": "CodeFirstFinalTask\\Controllers\\MiniShcoolController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:20:02.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "CodeFirstFinalTask\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:19:19.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SubjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Controllers\\SubjectsController.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Controllers\\SubjectsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Controllers\\SubjectsController.cs",
+              "RelativeToolTip": "CodeFirstFinalTask\\Controllers\\SubjectsController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:18:00.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "202409212011468_myfirst.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Migrations\\202409212011468_myfirst.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Migrations\\202409212011468_myfirst.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Migrations\\202409212011468_myfirst.cs",
+              "RelativeToolTip": "CodeFirstFinalTask\\Migrations\\202409212011468_myfirst.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:12:00.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "CodeFirstFinalTask\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:11:12.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Web.config",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Web.config",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Web.config",
+              "RelativeToolTip": "CodeFirstFinalTask\\Web.config",
+              "ViewState": "AQIAADYAAAAAAAAAAAAQwEQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-21T20:02:59.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MiniSchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Models\\MiniSchoolContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Models\\MiniSchoolContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Models\\MiniSchoolContext.cs",
+              "RelativeToolTip": "CodeFirstFinalTask\\Models\\MiniSchoolContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:59:55.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Models\\User.cs",
+              "RelativeToolTip": "CodeFirstFinalTask\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:59:08.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Models\\Subject.cs",
+              "RelativeToolTip": "CodeFirstFinalTask\\Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:58:34.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Models\\Student.cs",
+              "RelativeToolTip": "CodeFirstFinalTask\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:57:36.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Models\\Classes.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Models\\Classes.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Models\\Classes.cs",
+              "RelativeToolTip": "CodeFirstFinalTask\\Models\\Classes.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:43:35.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "CodeFirstFinalTask\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CodeFirstFinalTask\\CodeFirstFinalTask\\Models\\Assignment.cs",
+              "RelativeToolTip": "CodeFirstFinalTask\\Models\\Assignment.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:42:45.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

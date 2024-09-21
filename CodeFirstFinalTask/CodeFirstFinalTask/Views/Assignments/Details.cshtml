@@ -1,0 +1,105 @@
+﻿@model CodeFirstFinalTask.Models.Assignment
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="container mt-5">
+    <h2 class="text-primary mb-4">Assignment Details</h2>
+
+    <div class="card shadow-sm p-4 bg-white rounded">
+        <h4 class="text-muted">Assignment Information</h4>
+        <hr />
+
+        <!-- Display Assignment Details -->
+        <dl class="row">
+            <dt class="col-sm-3 text-end fw-bold">
+                @Html.DisplayNameFor(model => model.Title)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Title)
+            </dd>
+
+            <dt class="col-sm-3 text-end fw-bold">
+                @Html.DisplayNameFor(model => model.DueDate)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.DueDate)
+            </dd>
+
+            <dt class="col-sm-3 text-end fw-bold">
+                @Html.DisplayNameFor(model => model.ClassId)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.ClassId)
+            </dd>
+        </dl>
+    </div>
+
+    <div class="mt-4">
+        <a href="@Url.Action("Edit", "Assignments", new { id = Model.Id })" class="btn btn-primary">Edit</a>
+        <a href="@Url.Action("Index", "Assignments")" class="btn btn-outline-secondary">Back to List</a>
+    </div>
+</div>
+
+<!-- CSS Styling -->
+<style>
+    /* General Styling */
+    body {
+        background-color: #f8f9fa;
+    }
+
+    h2 {
+        font-family: 'Poppins', sans-serif;
+        font-weight: bold;
+    }
+
+    h4 {
+        font-family: 'Roboto', sans-serif;
+        font-weight: normal;
+        color: #6c757d;
+    }
+
+    /* Card Styling */
+    .card {
+        border-radius: 10px;
+        border: 1px solid #dee2e6;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    }
+
+    /* Definition List Styling */
+    .dl-horizontal dt {
+        font-size: 1rem;
+    }
+
+    .dl-horizontal dd {
+        margin-bottom: 1rem;
+        font-size: 1rem;
+        color: #495057;
+    }
+
+    /* Button Styling */
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+        border-radius: 8px;
+        padding: 0.5rem 1.5rem;
+    }
+
+    .btn-outline-secondary {
+        border-radius: 8px;
+        padding: 0.5rem 1.5rem;
+        border-color: #6c757d;
+    }
+
+    .btn-outline-secondary:hover {
+        background-color: #f0f0f0;
+    }
+
+    /* Responsive Design */
+    @@media (max-width: 768px) {
+        .dl-horizontal dt {
+            text-align: left;
+        }
+    }
+</style>

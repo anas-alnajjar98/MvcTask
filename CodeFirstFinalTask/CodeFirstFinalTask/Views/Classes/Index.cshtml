@@ -1,0 +1,175 @@
+﻿@model IEnumerable<CodeFirstFinalTask.Models.Classes>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container mt-5">
+    <h2 class="text-primary text-center mb-4">Classes List</h2>
+
+    <p class="text-end">
+        @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-success mb-3" })
+    </p>
+
+    <ul class="responsive-table">
+        <li class="table-header bg-secondary text-white">
+            <div class="col col-1">Id</div>
+            <div class="col col-2">Class Name</div>
+            <div class="col col-3 text-end">Actions</div>
+        </li>
+
+        @foreach (var item in Model)
+        {
+            <li class="table-row">
+                <div class="col col-1" data-label="Id">@item.ClassId</div>
+                <div class="col col-2" data-label="Class Name">@item.ClassName</div>
+                <div class="col col-3 text-end" data-label="Actions">
+                    @Html.ActionLink("Edit", "Edit", new { id = item.ClassId }, new { @class = "btn btn-warning btn-sm me-2" })
+                    @Html.ActionLink("Details", "Details", new { id = item.ClassId }, new { @class = "btn btn-info btn-sm me-2" })
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ClassId }, new { @class = "btn btn-danger btn-sm" })
+                </div>
+            </li>
+        }
+    </ul>
+</div>
+
+<!-- Styling -->
+<style>
+    /* Body styling */
+    body {
+        font-family: 'Lato', sans-serif;
+        background-color: #f8f9fa;
+    }
+
+    /* Container styling */
+    .container {
+        max-width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    /* Heading styling */
+    h2 {
+        font-size: 28px;
+        margin-bottom: 20px;
+        text-align: center;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    /* Responsive table styling */
+    .responsive-table {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    /* Table header styling */
+    .table-header {
+        background-color: #6c757d;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        padding: 15px;
+        display: flex;
+        justify-content: space-between;
+        border-radius: 5px;
+    }
+
+    /* Table row styling */
+    .table-row {
+        background-color: #ffffff;
+        box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.05);
+        border-radius: 5px;
+        padding: 15px 25px;
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    /* Column styling */
+    .col {
+        display: flex;
+        align-items: center;
+    }
+
+    .col-1 {
+        flex-basis: 10%;
+    }
+
+    .col-2 {
+        flex-basis: 50%;
+    }
+
+    .col-3 {
+        flex-basis: 40%;
+        text-align: end;
+    }
+
+    /* Button styling */
+    .btn-sm {
+        padding: 0.5rem 1rem;
+        font-size: 0.875rem;
+        border-radius: 0.375rem;
+        margin-left: 5px;
+    }
+
+    .btn-warning {
+        background-color: #ffc107;
+        border-color: #ffc107;
+    }
+
+    .btn-info {
+        background-color: #17a2b8;
+        border-color: #17a2b8;
+    }
+
+    .btn-danger {
+        background-color: #dc3545;
+        border-color: #dc3545;
+    }
+
+    .btn-success {
+        background-color: #28a745;
+        border-color: #28a745;
+    }
+
+    /* Responsive styling */
+    @@media all and (max-width: 768px) {
+        .table-header {
+            display: none;
+        }
+
+        .table-row {
+            display: block;
+            padding: 15px 10px;
+        }
+
+        .col {
+            flex-basis: 100%;
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+        }
+
+        .col:before {
+            color: #6C757D;
+            padding-right: 10px;
+            content: attr(data-label);
+            flex-basis: 40%;
+            text-align: left;
+            font-weight: bold;
+        }
+
+        .col-3 {
+            text-align: right;
+        }
+
+        .btn-sm {
+            width: 100%;
+            margin: 5px 0;
+        }
+    }
+</style>
